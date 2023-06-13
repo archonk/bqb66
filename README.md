@@ -1,4 +1,4 @@
-# 收集的一些emojis和表情包
+# 收集的一些表情包
 
 * alus
 * bilibili
